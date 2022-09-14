@@ -32,6 +32,30 @@
 <br>
 <br>
 
+<p style="margin-bottom:70px">
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dagem720&theme=dark&background=000000&show_icons=true&locale=en&layout=compact"
+    alt="dagem720"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=dagem720&theme=dark&background=000000&show_icons=true&locale=en"
+    alt="dagem720"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dagem720&theme=dark&background=000000&"
+    alt="dagem720"
+  />
+</p>
+
 [![Abenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbenezerAtnafu&show_icons=true&theme=tokyonight)](https://github.com/AbenezerAtnafu/github-readme-stats)
 
 [website]: https://dev.eshidigital.com/team-member/abenezer-atnafu?id=3
